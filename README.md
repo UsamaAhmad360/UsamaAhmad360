@@ -42,4 +42,4 @@ Python-based natural-language to shell-command converter.
 ## 📫 Contact  
 **Email:** mlkusama360@gmail.com  
 **GitHub:** https://github.com/UsamaAhmad360  
-**Portfilio** https://usamaahmad360.github.io/Usama-s-Portfolio/
+**Portfolio** https://usamaahmad360.github.io/Usama-s-Portfolio/
