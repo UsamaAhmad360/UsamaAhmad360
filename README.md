@@ -2,7 +2,7 @@
 ### BSCS Graduate | Web Developer | Open-Source Enthusiast  
 
 🚀 I love building useful tools, web apps, extensions, and automation scripts.  
-💡 Currently learning: JavaScript (Advanced → Backend), Python, C++ (DSA)  
+💡 Currently learning: JavaScript (Advanced → Backend), Python  
 🎯 Goal: Become a full-stack web developer + security enthusiast.
 
 ---
