@@ -66,16 +66,6 @@
 -   📡 Implementing a robust **RESTful API** with **Node.js** and **Express.js**.
 -   🤝 Seeking and making more impactful **open-source contributions**.
 
----
-
-## 📈 My GitHub Stats
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=UsamaAhmad360&show_icons=true&theme=dark" alt="Usama's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsamaAhmad360&layout=compact&theme=dark" alt="Usama's Top Languages" />
-  
-</div>
 
 ---
 
