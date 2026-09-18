@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Usama Ahmad <img src="https://media.giphy.com/media/hvRJCLFzjrRNUnLNK5/giphy.gif" width="30px">
   
-### 🎓 BSCS Graduate | 💻 Web Developer | 🌱 Open-Source Enthusiast
+### 🛡️ BSCS Graduate | 🔎 SOC Analyst in Training | 🧪 Digital Forensics & DFIR
 
 <img src="https://komarev.com/ghpvc/?username=UsamaAhmad360&style=for-the-badge&color=blue" alt="Profile views">
 
@@ -12,60 +12,64 @@
 
 ## 🎯 About Me
   
-🚀 I love building **useful tools**, **web apps**, **extensions**, and **automation scripts**. I thrive on turning ideas into functional, clean code.
+🚀 I build and break things in **home-lab environments** to understand how attacks happen and how defenders catch them — SIEM detection, network intrusion analysis, memory forensics, and malware triage.
   
 💡 **Currently Deep-Diving Into:**
-* **JavaScript:** Advanced patterns and **Backend** development (Node.js/Express.js).
-* **Python:** Automation and CLI tool development.
-  
-✨ **Long-Term Goal:** Become a **Full-Stack Web Developer** with a strong focus on **Security** and system architecture.
+* **SOC & SIEM:** Wazuh SIEM/XDR, alert triage, log correlation, Sysmon telemetry.
+* **Digital Forensics & Incident Response (DFIR):** Disk/memory acquisition, Volatility, Autopsy, timeline reconstruction.
+* **Certifications:** CEH (in progress) · CHFI (exam passed, certification pending).
+
+✨ **Long-Term Goal:** Land an entry-level **SOC Analyst / Network Security Analyst / Digital Forensics Analyst** role and grow into incident response and threat hunting.
 
 ---
 
 <div align="center">
   
-## 🔧 Tech Stack & Toolkit
+## 🔧 Tools & Toolkit
 
-| Category | Tools & Languages |
+| Category | Tools |
 | :--- | :--- |
-| **Primary Languages** | <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> |
-| **Frontend** | <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/> |
-| **Backend** | <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> |
-| **Tools & Versioning** | <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> |
+| **SOC / SIEM** | <img alt="Wazuh" src="https://img.shields.io/badge/Wazuh-1A73E8?style=for-the-badge&logo=wazuh&logoColor=white"/> <img alt="Sysmon" src="https://img.shields.io/badge/Sysmon-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> |
+| **Network Security** | <img alt="Suricata" src="https://img.shields.io/badge/Suricata-CC0000?style=for-the-badge&logo=suricata&logoColor=white"/> <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/> <img alt="Nmap" src="https://img.shields.io/badge/Nmap-1D1D1D?style=for-the-badge&logo=nmap&logoColor=white"/> |
+| **Digital Forensics** | <img alt="Autopsy" src="https://img.shields.io/badge/Autopsy-2E2E2E?style=for-the-badge"/> <img alt="Volatility" src="https://img.shields.io/badge/Volatility-4B0082?style=for-the-badge"/> <img alt="FTK Imager" src="https://img.shields.io/badge/FTK_Imager-333333?style=for-the-badge"/> |
+| **Malware Analysis** | <img alt="Ghidra" src="https://img.shields.io/badge/Ghidra-4C9C4C?style=for-the-badge"/> <img alt="IDA Pro" src="https://img.shields.io/badge/IDA_Pro-2C2C2C?style=for-the-badge"/> <img alt="FLARE-VM" src="https://img.shields.io/badge/FLARE--VM-990000?style=for-the-badge"/> |
+| **Vulnerability Assessment** | <img alt="Nessus" src="https://img.shields.io/badge/Nessus-00A88E?style=for-the-badge&logo=nessus&logoColor=white"/> |
+| **Networking / Infra** | <img alt="Cisco" src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/> <img alt="EVE-NG" src="https://img.shields.io/badge/EVE--NG-333333?style=for-the-badge"/> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> |
+| **Scripting** | <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/> |
 
 ---
   
 </div>
 
-## 🚀 Featured Projects
+## 🚀 Featured Labs
   
-### 🥇 Chrome Task Reminder Extension
-> A practical productivity tool that adds tasks, sets reminders, auto-opens tabs on startup, and uses browser storage for seamless task syncing.
+### 🥇 Home SOC & SIEM Lab
+> Deployed Wazuh SIEM/XDR to centralize telemetry from Windows and Linux endpoints, using Sysmon to capture process, network, and registry activity. Configured FIM and custom alert rules, then triaged and correlated alerts to separate real indicators from noise.
   
-* **Key Tech:** **JavaScript (Vanilla), Chrome Storage API, Manifest V3**
-* **Status:** Stable / Used Daily
+* **Key Tech:** Wazuh, Sysmon, FIM, Alert Correlation
+* **Status:** Active lab / continuously expanded
 
-### 🥈 Portfolio Website
-> My personal corner of the web. A clean, responsive, and simple showcase of my skills and projects.
+### 🥈 Digital Forensics & Memory Analysis Lab
+> Reconstructed system activity from acquired disk and memory images — recovering deleted files, extracting registry/browser artifacts, and building investigative timelines. Used the Volatility Framework to expose hidden processes and malicious network connections.
   
-* **Key Tech:** **HTML5, CSS3, JavaScript**
-* **Status:** Deployed and Live | [View Live](https://usamaahmad360.github.io/Usama-s-Portfolio/)
+* **Key Tech:** Autopsy, Volatility, Write Blocking, Hash Verification
+* **Status:** Case study documented → see [DFIR-Memory-Forensics-CaseStudy](#)
 
-### 🥉 CLI Automation Tool (WIP)
-> A Python-based command-line utility designed to interpret natural language inputs and safely execute corresponding shell commands. The goal is cross-platform, efficient automation.
+### 🥉 Network IDS & Suricata Lab
+> Integrated Suricata IDS/IPS with Wazuh, authored custom detection signatures, and validated coverage by simulating port scans and ICMP/DoS floods, correlating alerts against Wireshark captures.
   
-* **Key Tech:** **Python, argparse, subprocess**
-* **Status:** Currently building the safe execution module.
+* **Key Tech:** Suricata, Wazuh, Wireshark
+* **Status:** Documented → see [Suricata-IDS-Rocky-Linux-Install](#)
 
 ---
 
 ## 🏗️ What's Next on the Horizon
   
--   ⚛️ Building a modern, animated portfolio using **React** and **TailwindCSS**.
--   🧑‍💻 Developing a new full-featured productivity Chrome extension (v2).
--   📡 Implementing a robust **RESTful API** with **Node.js** and **Express.js**.
--   🤝 Seeking and making more impactful **open-source contributions**.
-
+-   🧫 Malware analysis write-ups (static + dynamic) using Ghidra, x64dbg, PEStudio
+-   🌐 Publishing the Cisco multi-device network lab (VLANs, OSPF, HSRP, ACLs)
+-   🔍 DNS & OSINT reconnaissance case studies (Shodan, crt.sh, DNSRecon)
+-   🎓 Finishing CEH and CHFI certification
+-   🤝 Contributing to open-source blue-team tooling
 
 ---
 
@@ -74,5 +78,6 @@
 | Platform | Handle/Link |
 | :--- | :--- |
 | **Email** | mlkusama360@gmail.com |
+| **LinkedIn** | [Usama Ahmad](https://www.linkedin.com/in/usama-ahmad-a85401363/) |
 | **Portfolio** | [Usama's Portfolio](https://usamaahmad360.github.io/Usama-s-Portfolio/) |
 | **GitHub** | [@UsamaAhmad360](https://github.com/UsamaAhmad360) |
