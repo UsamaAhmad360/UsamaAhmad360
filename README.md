@@ -32,13 +32,13 @@ Seven labs that follow the path of a real incident: **detect → investigate →
 
 | # | Project | What I did | Tools |
 |:-:|---|---|---|
-| 01 | [**Home SOC & SIEM Lab**](https://github.com/UsamaAhmad360/01-SOC-SIEM-Lab) | Centralised Windows and Linux telemetry in Wazuh; Sysmon for process/network/registry activity; FIM and custom rules for alert triage | Wazuh · Sysmon · FIM |
+| 01 | [**Home SOC & SIEM Lab**](https://github.com/UsamaAhmad360/01-HOME-SOC-SIEM-Lab) | Centralised Windows and Linux telemetry in Wazuh; Sysmon for process/network/registry activity; FIM and custom rules for alert triage | Wazuh · Sysmon · FIM |
 | 02 | [**Digital Forensics & Memory**](https://github.com/UsamaAhmad360/02-DFIR-Digital-Forensics-Memory) | Investigated a disk image: recovered deleted/carved files, registry and browser artifacts, evidence reports; memory analysis workflow | Autopsy · Volatility · FTK Imager |
 | 03 | [**Malware Analysis Lab**](https://github.com/UsamaAhmad360/03-Malware-Analysis-Lab) | Isolated FLARE-VM + Kali/INetSim lab; static triage of a .NET sample, file-type identification, IOC extraction | FLARE-VM · PEStudio · CFF Explorer |
-| 04 | [**Network IDS & Monitoring**](https://github.com/UsamaAhmad360/04-Network-IDS-Monitoring) | Suricata integrated with Wazuh; custom signatures for scans, ICMP/UDP/Slowloris/DHCP attacks; validated against captures | Suricata · Wazuh · Wireshark |
+| 04 | [**Network IDS & Monitoring**](https://github.com/UsamaAhmad360/04-Network-IDS-Monitoring-Lab) | Suricata integrated with Wazuh; custom signatures for scans, ICMP/UDP/Slowloris/DHCP attacks; validated against captures | Suricata · Wazuh · Wireshark |
 | 05 | [**Cisco Infrastructure Lab**](https://github.com/UsamaAhmad360/05-Cisco-Infrastructure-Lab) | Multi-device topologies: VLANs, OSPF, RIP, STP/RSTP, EtherChannel, HSRP, ACLs, NAT, DHCP, SSH | Cisco IOS · EVE-NG · Packet Tracer |
 | 06 | [**Vulnerability Assessment**](https://github.com/UsamaAhmad360/06-Vulnerability-Assessment-Lab) | Nessus and Nmap scans, authenticated vs unauthenticated comparison, CVE/CVSS research, remediation priorities | Nessus · Nmap · CVE/CVSS |
-| 07 | [**DNS & Attack Surface Recon**](https://github.com/UsamaAhmad360/07-DNS-Attack-Surface-Recon) | DNS enumeration, zone transfers, certificate-transparency subdomain discovery, Shodan exposure search | Shodan · DNSRecon · crt.sh |
+| 07 | [**DNS & Attack Surface Recon**](https://github.com/UsamaAhmad360/07-DNS-Attack-Surface-Recon-Lab) | DNS enumeration, zone transfers, certificate-transparency subdomain discovery, Shodan exposure search | Shodan · DNSRecon · crt.sh |
 
 ### 💡 Highlights
 
